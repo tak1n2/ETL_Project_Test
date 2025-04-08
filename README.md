@@ -1,1 +1,1 @@
-# ETL_Project_Test
+This project was created using Entity Framework (EF) and MySQL Db with a code-first approach for database creation. The database is not created through SQL scripts, but rather by EF directly through code-first conventions. No Migrations Used. For .csv file reading, used CsvHelper package for better and faster work with .csb file. Included factory pattern for creating db.
