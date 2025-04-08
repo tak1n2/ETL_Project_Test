@@ -1,4 +1,6 @@
-﻿namespace ETL_Project_Test
+﻿using ETL_Project_Test.Services;
+
+namespace ETL_Project_Test
 {
     internal class Program
     {

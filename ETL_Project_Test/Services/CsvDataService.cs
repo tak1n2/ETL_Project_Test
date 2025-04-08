@@ -1,6 +1,7 @@
 ﻿using CsvHelper;
 using CsvHelper.Configuration;
 using EFCore.BulkExtensions;
+using ETL_Project_Test.Data;
 using ETL_Project_Test.Models;
 using Microsoft.VisualBasic.FileIO;
 using System;
@@ -10,7 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ETL_Project_Test
+namespace ETL_Project_Test.Services
 {
     class CsvDataService
     {

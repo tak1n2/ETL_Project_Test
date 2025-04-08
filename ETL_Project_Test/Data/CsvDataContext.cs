@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ETL_Project_Test
+namespace ETL_Project_Test.Data
 {
     class CsvDataContext : DbContext
     {
